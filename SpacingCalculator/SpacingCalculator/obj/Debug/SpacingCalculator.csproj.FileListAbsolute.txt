@@ -1,0 +1,10 @@
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\obj\Debug\SpacingCalculator.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\obj\Debug\SpacingCalculator.Form1.resources
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\obj\Debug\SpacingCalculator.Properties.Resources.resources
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\obj\Debug\SpacingCalculator.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\obj\Debug\SpacingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\bin\Debug\SpacingCalculator.exe.config
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\bin\Debug\SpacingCalculator.exe
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\bin\Debug\SpacingCalculator.pdb
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\obj\Debug\SpacingCalculator.exe
+C:\Users\Robert\source\repos\SpacingCalculator\SpacingCalculator\obj\Debug\SpacingCalculator.pdb
